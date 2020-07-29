@@ -2,6 +2,7 @@
 
   - Bash
   - C
+  - Emacs
   - Food
   - Geology
   - Law
